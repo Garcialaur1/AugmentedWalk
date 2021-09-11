@@ -1039,3 +1039,412 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.09.11-23.09.18:855][438]AssetCheck: New page: Asset Save: multiple assets
 [2021.09.11-23.09.18:855][438]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/AugmentedWalk_BuiltData.AugmentedWalk_BuiltData
 [2021.09.11-23.09.18:855][438]LogContentValidation: Display: Validating World /Game/AugmentedWalk.AugmentedWalk
+[2021.09.11-23.09.31:918][478]LogEditorViewport: Clicking on Actor (LMB): InstancedFoliageActor (InstancedFoliageActor)
+[2021.09.11-23.09.33:925][681]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2021.09.11-23.09.51:405][391]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.09.11-23.09.51:409][391]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.09.11-23.09.51:409][391]PIE: New page: PIE session: AugmentedWalk (12/09/2021, 11:09:51 pm)
+[2021.09.11-23.09.51:410][391]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_AugmentedWalk
+[2021.09.11-23.09.51:454][391]LogPlayLevel: PIE: StaticDuplicateObject took: (0.045014s)
+[2021.09.11-23.09.51:455][391]LogAIModule: Creating AISystem for world AugmentedWalk
+[2021.09.11-23.09.51:455][391]LogPlayLevel: PIE: World Init took: (0.001170s)
+[2021.09.11-23.09.51:455][391]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/AugmentedWalk.AugmentedWalk to /Game/UEDPIE_0_AugmentedWalk.AugmentedWalk (0.046311s)
+[2021.09.11-23.09.51:470][391]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2021.09.11-23.09.51:473][391]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2021.09.11-23.09.51:473][391]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.11-23.09.51:473][391]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.11-23.09.51:473][391]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.11-23.09.51:473][391]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.11-23.09.51:473][391]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.11-23.09.51:473][391]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.11-23.09.51:473][391]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.11-23.09.51:473][391]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.11-23.09.51:474][391]LogAudio: Display: Using built-in audio occlusion.
+[2021.09.11-23.09.51:474][391]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.11-23.09.51:475][391]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.11-23.09.51:475][391]LogAudioMixer: Display: 1: FrontRight
+[2021.09.11-23.09.51:481][391]LogAudioMixer: Display: Using Audio Device Headphones (2- SteelSeries Arctis 7 Game)
+[2021.09.11-23.09.51:481][391]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.11-23.09.51:481][391]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.11-23.09.51:481][391]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.11-23.09.51:481][391]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.11-23.09.51:481][391]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.09.11-23.09.51:481][391]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.09.11-23.09.51:493][391]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.09.11-23.09.51:493][391]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.09.11-23.09.51:493][391]LogInit: FAudioDevice initialized.
+[2021.09.11-23.09.51:493][391]LogAudio: Display: Audio Device (ID: 6) registered with world 'AugmentedWalk'.
+[2021.09.11-23.09.51:542][391]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.11-23.09.51:542][391]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.09.11-23.09.51:546][391]LogWorld: Bringing World /Game/UEDPIE_0_AugmentedWalk.AugmentedWalk up for play (max tick rate 0) at 2021.09.12-11.09.51
+[2021.09.11-23.09.51:546][391]LogWorld: Bringing up level for play took: 0.003592
+[2021.09.11-23.09.51:546][391]LogOnline: OSS: Creating online subsystem instance for: :Context_8
+[2021.09.11-23.09.51:548][391]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.09.11-23.09.51:549][391]PIE: Server logged in
+[2021.09.11-23.09.51:550][391]PIE: Play in editor total start time 0.141 seconds.
+[2021.09.11-23.10.01:647][294]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.11-23.10.01:647][294]LogWorld: BeginTearingDown for /Game/UEDPIE_0_AugmentedWalk
+[2021.09.11-23.10.01:648][294]LogSlate: Window 'AugmentedWalk Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.09.11-23.10.01:661][294]LogWorld: UWorld::CleanupWorld for AugmentedWalk, bSessionEnded=true, bCleanupResources=true
+[2021.09.11-23.10.01:662][294]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.11-23.10.01:670][294]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.11-23.10.01:676][294]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.11-23.10.01:690][294]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.11-23.10.01:690][294]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.11-23.10.01:705][294]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2021.09.11-23.10.01:733][295]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2021.09.11-23.10.03:618][503]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/DreamscapeSeries/DreamscapeMeadows/Blueprints/BP_Sky_Sphere_Stylized.BP_Sky_Sphere_Stylized
+[2021.09.11-23.10.46:897][759]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2021.09.11-23.10.46:897][759]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.11-23.11.41:719][253]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.09.11-23.11.42:022][253]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2021.09.11-23.11.42:342][253]LogSlate: Took 0.000076 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.09.11-23.11.49:518][253]LogSlate: Window 'Delete Assets' being destroyed
+[2021.09.11-23.11.49:560][253]LogUObjectGlobals: Force Deleting 25 Package(s):
+	Asset Name: /Game/DreamscapeSeries/SharedResources/Mannequin/Animations/ThirdPersonIdle.ThirdPersonIdle
+	Asset Name: /Game/DreamscapeSeries/SharedResources/Mannequin/Animations/ThirdPersonJump_Loop.ThirdPersonJump_Loop
+	Asset Name: /Game/DreamscapeSeries/SharedResources/Mannequin/Animations/ThirdPersonJump_Start.ThirdPersonJump_Start
+	Asset Name: /Game/DreamscapeSeries/SharedResources/Mannequin/Animations/ThirdPersonRun.ThirdPersonRun
+	Asset Name: /Game/DreamscapeSeries/SharedResources/Mannequin/Animations/ThirdPersonWalk.ThirdPersonWalk
+	Asset Name: /Game/DreamscapeSeries/SharedResources/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP
+	Asset Name: /Game/DreamscapeSeries/SharedResources/Mannequin/Animations/ThirdPerson_IdleRun_2D.ThirdPerson_IdleRun_2D
+	Asset Name: /Game/DreamscapeSeries/SharedResources/Mannequin/Animations/ThirdPerson_Jump.ThirdPerson_Jump
+	Asset Name: /Game/DreamscapeSeries/SharedResources/Mannequin/Character/Materials/M_UE4Man_Body.M_UE4Man_Body
+	Asset Name: /Game/DreamscapeSeries/SharedResources/Mannequin/Character/Materials/M_UE4Man_ChestLogo.M_UE4Man_ChestLogo
+[2021.09.11-23.11.59:736][253]LogMaterial: Display: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2021.09.11-23.11.59:742][253]LogMaterial: Warning: [AssetLog] C:\Users\Laura\Documents\GitHub\AugmentedWalk\Content\DreamscapeSeries\SharedResources\Mannequin\Character\Materials\M_UE4Man_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.09.11-23.11.59:742][253]LogMaterial: Display: 	Missing Material Function
+[2021.09.11-23.11.59:742][253]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2021.09.11-23.11.59:742][253]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2021.09.11-23.11.59:742][253]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.09.11-23.11.59:742][253]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2021.09.11-23.11.59:742][253]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2021.09.11-23.11.59:742][253]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2021.09.11-23.11.59:742][253]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2021.09.11-23.11.59:744][253]LogMaterial: Display: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2021.09.11-23.11.59:745][253]LogMaterial: Warning: [AssetLog] C:\Users\Laura\Documents\GitHub\AugmentedWalk\Content\DreamscapeSeries\SharedResources\Mannequin\Character\Materials\M_UE4Man_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.09.11-23.11.59:745][253]LogMaterial: Display: 	Missing Material Function
+[2021.09.11-23.11.59:745][253]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2021.09.11-23.11.59:745][253]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2021.09.11-23.11.59:745][253]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.09.11-23.11.59:745][253]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2021.09.11-23.11.59:745][253]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2021.09.11-23.11.59:745][253]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2021.09.11-23.11.59:745][253]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2021.09.11-23.11.59:746][253]LogMaterial: Display: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2021.09.11-23.11.59:748][253]LogMaterial: Warning: [AssetLog] C:\Users\Laura\Documents\GitHub\AugmentedWalk\Content\DreamscapeSeries\SharedResources\Mannequin\Character\Materials\M_UE4Man_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.09.11-23.11.59:748][253]LogMaterial: Display: 	Missing Material Function
+[2021.09.11-23.11.59:748][253]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2021.09.11-23.11.59:748][253]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2021.09.11-23.11.59:748][253]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.09.11-23.11.59:748][253]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2021.09.11-23.11.59:748][253]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2021.09.11-23.11.59:748][253]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2021.09.11-23.11.59:748][253]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2021.09.11-23.11.59:749][253]LogMaterial: Display: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2021.09.11-23.11.59:750][253]LogMaterial: Warning: [AssetLog] C:\Users\Laura\Documents\GitHub\AugmentedWalk\Content\DreamscapeSeries\SharedResources\Mannequin\Character\Materials\M_UE4Man_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.09.11-23.11.59:750][253]LogMaterial: Display: 	Missing Material Function
+[2021.09.11-23.11.59:750][253]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2021.09.11-23.11.59:750][253]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2021.09.11-23.11.59:750][253]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.09.11-23.11.59:750][253]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2021.09.11-23.11.59:750][253]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2021.09.11-23.11.59:750][253]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2021.09.11-23.11.59:750][253]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2021.09.11-23.11.59:751][253]LogMaterial: Display: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2021.09.11-23.11.59:753][253]LogMaterial: Warning: [AssetLog] C:\Users\Laura\Documents\GitHub\AugmentedWalk\Content\DreamscapeSeries\SharedResources\Mannequin\Character\Materials\M_UE4Man_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.09.11-23.11.59:753][253]LogMaterial: Display: 	Missing Material Function
+[2021.09.11-23.11.59:753][253]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2021.09.11-23.11.59:753][253]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2021.09.11-23.11.59:753][253]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.09.11-23.11.59:753][253]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2021.09.11-23.11.59:753][253]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2021.09.11-23.11.59:753][253]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2021.09.11-23.11.59:753][253]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2021.09.11-23.11.59:754][253]LogMaterial: Display: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2021.09.11-23.11.59:755][253]LogMaterial: Warning: [AssetLog] C:\Users\Laura\Documents\GitHub\AugmentedWalk\Content\DreamscapeSeries\SharedResources\Mannequin\Character\Materials\M_UE4Man_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.09.11-23.11.59:755][253]LogMaterial: Display: 	Missing Material Function
+[2021.09.11-23.11.59:755][253]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2021.09.11-23.11.59:755][253]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2021.09.11-23.11.59:755][253]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.09.11-23.11.59:755][253]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2021.09.11-23.11.59:755][253]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2021.09.11-23.11.59:755][253]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2021.09.11-23.11.59:755][253]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2021.09.11-23.11.59:756][253]LogMaterial: Display: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2021.09.11-23.11.59:758][253]LogMaterial: Warning: [AssetLog] C:\Users\Laura\Documents\GitHub\AugmentedWalk\Content\DreamscapeSeries\SharedResources\Mannequin\Character\Materials\M_UE4Man_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.09.11-23.11.59:758][253]LogMaterial: Display: 	Missing Material Function
+[2021.09.11-23.11.59:758][253]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2021.09.11-23.11.59:758][253]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2021.09.11-23.11.59:758][253]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.09.11-23.11.59:758][253]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2021.09.11-23.11.59:758][253]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2021.09.11-23.11.59:758][253]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2021.09.11-23.11.59:758][253]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2021.09.11-23.11.59:759][253]LogMaterial: Display: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2021.09.11-23.11.59:760][253]LogMaterial: Warning: [AssetLog] C:\Users\Laura\Documents\GitHub\AugmentedWalk\Content\DreamscapeSeries\SharedResources\Mannequin\Character\Materials\M_UE4Man_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.09.11-23.11.59:760][253]LogMaterial: Display: 	Missing Material Function
+[2021.09.11-23.11.59:760][253]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2021.09.11-23.11.59:760][253]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2021.09.11-23.11.59:760][253]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.09.11-23.11.59:760][253]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2021.09.11-23.11.59:760][253]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2021.09.11-23.11.59:760][253]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2021.09.11-23.11.59:760][253]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2021.09.11-23.11.59:761][253]LogMaterial: Display: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2021.09.11-23.11.59:763][253]LogMaterial: Warning: [AssetLog] C:\Users\Laura\Documents\GitHub\AugmentedWalk\Content\DreamscapeSeries\SharedResources\Mannequin\Character\Materials\M_UE4Man_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.09.11-23.11.59:763][253]LogMaterial: Display: 	Missing Material Function
+[2021.09.11-23.11.59:763][253]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2021.09.11-23.11.59:763][253]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2021.09.11-23.11.59:763][253]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.09.11-23.11.59:763][253]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2021.09.11-23.11.59:763][253]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2021.09.11-23.11.59:763][253]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2021.09.11-23.11.59:763][253]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2021.09.11-23.11.59:763][253]LogMaterial: Display: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2021.09.11-23.11.59:765][253]LogMaterial: Warning: [AssetLog] C:\Users\Laura\Documents\GitHub\AugmentedWalk\Content\DreamscapeSeries\SharedResources\Mannequin\Character\Materials\M_UE4Man_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.09.11-23.11.59:765][253]LogMaterial: Display: 	Missing Material Function
+[2021.09.11-23.11.59:765][253]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2021.09.11-23.11.59:765][253]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2021.09.11-23.11.59:765][253]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.09.11-23.11.59:765][253]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2021.09.11-23.11.59:765][253]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2021.09.11-23.11.59:765][253]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2021.09.11-23.11.59:765][253]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2021.09.11-23.11.59:766][253]LogMaterial: Display: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2021.09.11-23.11.59:767][253]LogMaterial: Warning: [AssetLog] C:\Users\Laura\Documents\GitHub\AugmentedWalk\Content\DreamscapeSeries\SharedResources\Mannequin\Character\Materials\M_UE4Man_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.09.11-23.11.59:767][253]LogMaterial: Display: 	Missing Material Function
+[2021.09.11-23.11.59:767][253]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2021.09.11-23.11.59:767][253]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2021.09.11-23.11.59:767][253]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.09.11-23.11.59:767][253]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2021.09.11-23.11.59:767][253]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2021.09.11-23.11.59:767][253]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2021.09.11-23.11.59:767][253]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2021.09.11-23.11.59:768][253]LogMaterial: Display: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2021.09.11-23.11.59:770][253]LogMaterial: Warning: [AssetLog] C:\Users\Laura\Documents\GitHub\AugmentedWalk\Content\DreamscapeSeries\SharedResources\Mannequin\Character\Materials\M_UE4Man_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.09.11-23.11.59:770][253]LogMaterial: Display: 	Missing Material Function
+[2021.09.11-23.11.59:770][253]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2021.09.11-23.11.59:770][253]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2021.09.11-23.11.59:770][253]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.09.11-23.11.59:770][253]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2021.09.11-23.11.59:770][253]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2021.09.11-23.11.59:770][253]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2021.09.11-23.11.59:770][253]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2021.09.11-23.11.59:771][253]LogMaterial: Display: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2021.09.11-23.11.59:772][253]LogMaterial: Warning: [AssetLog] C:\Users\Laura\Documents\GitHub\AugmentedWalk\Content\DreamscapeSeries\SharedResources\Mannequin\Character\Materials\M_UE4Man_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.09.11-23.11.59:772][253]LogMaterial: Display: 	Missing Material Function
+[2021.09.11-23.11.59:772][253]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2021.09.11-23.11.59:772][253]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2021.09.11-23.11.59:772][253]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.09.11-23.11.59:772][253]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2021.09.11-23.11.59:772][253]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2021.09.11-23.11.59:772][253]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2021.09.11-23.11.59:772][253]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2021.09.11-23.11.59:773][253]LogMaterial: Display: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2021.09.11-23.11.59:775][253]LogMaterial: Warning: [AssetLog] C:\Users\Laura\Documents\GitHub\AugmentedWalk\Content\DreamscapeSeries\SharedResources\Mannequin\Character\Materials\M_UE4Man_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.09.11-23.11.59:775][253]LogMaterial: Display: 	Missing Material Function
+[2021.09.11-23.11.59:775][253]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2021.09.11-23.11.59:775][253]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2021.09.11-23.11.59:775][253]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.09.11-23.11.59:775][253]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2021.09.11-23.11.59:775][253]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2021.09.11-23.11.59:775][253]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2021.09.11-23.11.59:775][253]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2021.09.11-23.11.59:775][253]LogMaterial: Display: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2021.09.11-23.11.59:777][253]LogMaterial: Warning: [AssetLog] C:\Users\Laura\Documents\GitHub\AugmentedWalk\Content\DreamscapeSeries\SharedResources\Mannequin\Character\Materials\M_UE4Man_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.09.11-23.11.59:777][253]LogMaterial: Display: 	Missing Material Function
+[2021.09.11-23.11.59:777][253]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2021.09.11-23.11.59:777][253]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2021.09.11-23.11.59:777][253]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.09.11-23.11.59:777][253]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2021.09.11-23.11.59:777][253]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2021.09.11-23.11.59:777][253]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2021.09.11-23.11.59:777][253]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2021.09.11-23.11.59:778][253]LogMaterial: Display: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2021.09.11-23.11.59:779][253]LogMaterial: Warning: [AssetLog] C:\Users\Laura\Documents\GitHub\AugmentedWalk\Content\DreamscapeSeries\SharedResources\Mannequin\Character\Materials\M_UE4Man_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.09.11-23.11.59:779][253]LogMaterial: Display: 	Missing Material Function
+[2021.09.11-23.11.59:779][253]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2021.09.11-23.11.59:779][253]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2021.09.11-23.11.59:779][253]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.09.11-23.11.59:779][253]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2021.09.11-23.11.59:779][253]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2021.09.11-23.11.59:779][253]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2021.09.11-23.11.59:779][253]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2021.09.11-23.11.59:780][253]LogMaterial: Display: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2021.09.11-23.11.59:782][253]LogMaterial: Warning: [AssetLog] C:\Users\Laura\Documents\GitHub\AugmentedWalk\Content\DreamscapeSeries\SharedResources\Mannequin\Character\Materials\M_UE4Man_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.09.11-23.11.59:782][253]LogMaterial: Display: 	Missing Material Function
+[2021.09.11-23.11.59:782][253]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2021.09.11-23.11.59:782][253]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2021.09.11-23.11.59:782][253]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.09.11-23.11.59:782][253]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2021.09.11-23.11.59:782][253]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2021.09.11-23.11.59:782][253]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2021.09.11-23.11.59:782][253]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2021.09.11-23.11.59:783][253]LogMaterial: Display: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2021.09.11-23.11.59:784][253]LogMaterial: Warning: [AssetLog] C:\Users\Laura\Documents\GitHub\AugmentedWalk\Content\DreamscapeSeries\SharedResources\Mannequin\Character\Materials\M_UE4Man_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.09.11-23.11.59:784][253]LogMaterial: Display: 	Missing Material Function
+[2021.09.11-23.11.59:784][253]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2021.09.11-23.11.59:784][253]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2021.09.11-23.11.59:784][253]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.09.11-23.11.59:784][253]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2021.09.11-23.11.59:784][253]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2021.09.11-23.11.59:784][253]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2021.09.11-23.11.59:784][253]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2021.09.11-23.11.59:785][253]LogMaterial: Display: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2021.09.11-23.11.59:787][253]LogMaterial: Warning: [AssetLog] C:\Users\Laura\Documents\GitHub\AugmentedWalk\Content\DreamscapeSeries\SharedResources\Mannequin\Character\Materials\M_UE4Man_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.09.11-23.11.59:787][253]LogMaterial: Display: 	Missing Material Function
+[2021.09.11-23.11.59:787][253]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2021.09.11-23.11.59:787][253]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2021.09.11-23.11.59:787][253]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.09.11-23.11.59:787][253]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2021.09.11-23.11.59:787][253]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2021.09.11-23.11.59:787][253]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2021.09.11-23.11.59:787][253]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2021.09.11-23.11.59:788][253]LogMaterial: Display: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2021.09.11-23.11.59:789][253]LogMaterial: Warning: [AssetLog] C:\Users\Laura\Documents\GitHub\AugmentedWalk\Content\DreamscapeSeries\SharedResources\Mannequin\Character\Materials\M_UE4Man_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.09.11-23.11.59:789][253]LogMaterial: Display: 	Missing Material Function
+[2021.09.11-23.11.59:789][253]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2021.09.11-23.11.59:789][253]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2021.09.11-23.11.59:789][253]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.09.11-23.11.59:789][253]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2021.09.11-23.11.59:789][253]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2021.09.11-23.11.59:789][253]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2021.09.11-23.11.59:789][253]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2021.09.11-23.11.59:790][253]LogMaterial: Display: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2021.09.11-23.11.59:792][253]LogMaterial: Warning: [AssetLog] C:\Users\Laura\Documents\GitHub\AugmentedWalk\Content\DreamscapeSeries\SharedResources\Mannequin\Character\Materials\M_UE4Man_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.09.11-23.11.59:792][253]LogMaterial: Display: 	Missing Material Function
+[2021.09.11-23.11.59:792][253]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2021.09.11-23.11.59:792][253]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2021.09.11-23.11.59:792][253]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.09.11-23.11.59:792][253]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2021.09.11-23.11.59:792][253]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2021.09.11-23.11.59:792][253]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2021.09.11-23.11.59:792][253]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2021.09.11-23.11.59:793][253]LogMaterial: Display: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2021.09.11-23.11.59:794][253]LogMaterial: Warning: [AssetLog] C:\Users\Laura\Documents\GitHub\AugmentedWalk\Content\DreamscapeSeries\SharedResources\Mannequin\Character\Materials\M_UE4Man_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.09.11-23.11.59:794][253]LogMaterial: Display: 	Missing Material Function
+[2021.09.11-23.11.59:794][253]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2021.09.11-23.11.59:794][253]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2021.09.11-23.11.59:794][253]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.09.11-23.11.59:794][253]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2021.09.11-23.11.59:794][253]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2021.09.11-23.11.59:794][253]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2021.09.11-23.11.59:794][253]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2021.09.11-23.11.59:795][253]LogMaterial: Display: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2021.09.11-23.11.59:796][253]LogMaterial: Warning: [AssetLog] C:\Users\Laura\Documents\GitHub\AugmentedWalk\Content\DreamscapeSeries\SharedResources\Mannequin\Character\Materials\M_UE4Man_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.09.11-23.11.59:796][253]LogMaterial: Display: 	Missing Material Function
+[2021.09.11-23.11.59:797][253]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2021.09.11-23.11.59:797][253]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2021.09.11-23.11.59:797][253]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.09.11-23.11.59:797][253]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2021.09.11-23.11.59:797][253]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2021.09.11-23.11.59:797][253]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2021.09.11-23.11.59:797][253]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2021.09.11-23.11.59:797][253]LogMaterial: Display: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2021.09.11-23.11.59:799][253]LogMaterial: Warning: [AssetLog] C:\Users\Laura\Documents\GitHub\AugmentedWalk\Content\DreamscapeSeries\SharedResources\Mannequin\Character\Materials\M_UE4Man_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.09.11-23.11.59:799][253]LogMaterial: Display: 	Missing Material Function
+[2021.09.11-23.11.59:799][253]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2021.09.11-23.11.59:799][253]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2021.09.11-23.11.59:799][253]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.09.11-23.11.59:799][253]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2021.09.11-23.11.59:799][253]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2021.09.11-23.11.59:799][253]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2021.09.11-23.11.59:799][253]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2021.09.11-23.11.59:800][253]LogMaterial: Display: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2021.09.11-23.11.59:801][253]LogMaterial: Warning: [AssetLog] C:\Users\Laura\Documents\GitHub\AugmentedWalk\Content\DreamscapeSeries\SharedResources\Mannequin\Character\Materials\M_UE4Man_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.09.11-23.11.59:801][253]LogMaterial: Display: 	Missing Material Function
+[2021.09.11-23.11.59:801][253]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2021.09.11-23.11.59:801][253]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2021.09.11-23.11.59:801][253]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.09.11-23.11.59:801][253]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2021.09.11-23.11.59:801][253]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2021.09.11-23.11.59:801][253]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2021.09.11-23.11.59:801][253]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2021.09.11-23.12.00:382][253]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2021.09.11-23.12.00:398][253]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2021.09.11-23.12.00:410][253]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2021.09.11-23.12.00:422][253]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2021.09.11-23.12.00:434][253]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2021.09.11-23.12.00:446][253]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2021.09.11-23.12.00:458][253]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2021.09.11-23.12.00:470][253]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2021.09.11-23.12.00:482][253]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2021.09.11-23.12.00:494][253]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2021.09.11-23.12.00:506][253]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2021.09.11-23.12.00:518][253]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2021.09.11-23.12.00:530][253]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2021.09.11-23.12.00:543][253]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2021.09.11-23.12.00:556][253]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2021.09.11-23.12.00:568][253]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2021.09.11-23.12.00:580][253]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2021.09.11-23.12.00:592][253]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2021.09.11-23.12.00:606][253]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2021.09.11-23.12.00:618][253]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2021.09.11-23.12.00:630][253]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2021.09.11-23.12.00:642][253]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2021.09.11-23.12.00:654][253]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2021.09.11-23.12.00:666][253]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2021.09.11-23.12.00:678][253]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2021.09.11-23.12.00:691][253]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2021.09.11-23.12.00:703][253]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2021.09.11-23.12.01:893][347]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.09.11-23.12.01:908][347]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.09.11-23.12.01:908][347]PIE: New page: PIE session: AugmentedWalk (12/09/2021, 11:12:01 pm)
+[2021.09.11-23.12.01:908][347]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_AugmentedWalk
+[2021.09.11-23.12.01:980][347]LogPlayLevel: PIE: StaticDuplicateObject took: (0.070884s)
+[2021.09.11-23.12.01:980][347]LogAIModule: Creating AISystem for world AugmentedWalk
+[2021.09.11-23.12.01:981][347]LogPlayLevel: PIE: World Init took: (0.001007s)
+[2021.09.11-23.12.01:981][347]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/AugmentedWalk.AugmentedWalk to /Game/UEDPIE_0_AugmentedWalk.AugmentedWalk (0.072003s)
+[2021.09.11-23.12.01:995][347]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2021.09.11-23.12.01:998][347]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2021.09.11-23.12.01:999][347]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.11-23.12.01:999][347]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.11-23.12.01:999][347]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.11-23.12.01:999][347]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.11-23.12.01:999][347]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.11-23.12.01:999][347]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.11-23.12.01:999][347]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.11-23.12.01:999][347]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.11-23.12.01:999][347]LogAudio: Display: Using built-in audio occlusion.
+[2021.09.11-23.12.01:999][347]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.11-23.12.02:001][347]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.11-23.12.02:001][347]LogAudioMixer: Display: 1: FrontRight
+[2021.09.11-23.12.02:007][347]LogAudioMixer: Display: Using Audio Device Headphones (2- SteelSeries Arctis 7 Game)
+[2021.09.11-23.12.02:007][347]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.11-23.12.02:008][347]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.11-23.12.02:008][347]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.11-23.12.02:008][347]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.11-23.12.02:008][347]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.09.11-23.12.02:008][347]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.09.11-23.12.02:008][347]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.09.11-23.12.02:008][347]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.09.11-23.12.02:008][347]LogInit: FAudioDevice initialized.
+[2021.09.11-23.12.02:008][347]LogAudio: Display: Audio Device (ID: 7) registered with world 'AugmentedWalk'.
+[2021.09.11-23.12.02:052][347]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.11-23.12.02:052][347]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.09.11-23.12.02:056][347]LogWorld: Bringing World /Game/UEDPIE_0_AugmentedWalk.AugmentedWalk up for play (max tick rate 0) at 2021.09.12-11.12.02
+[2021.09.11-23.12.02:056][347]LogWorld: Bringing up level for play took: 0.003725
+[2021.09.11-23.12.02:057][347]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2021.09.11-23.12.02:058][347]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.09.11-23.12.02:059][347]PIE: Server logged in
+[2021.09.11-23.12.02:060][347]PIE: Play in editor total start time 0.152 seconds.
+[2021.09.11-23.12.09:786][946]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.11-23.12.09:786][946]LogWorld: BeginTearingDown for /Game/UEDPIE_0_AugmentedWalk
+[2021.09.11-23.12.09:787][946]LogSlate: Window 'AugmentedWalk Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.09.11-23.12.09:798][946]LogWorld: UWorld::CleanupWorld for AugmentedWalk, bSessionEnded=true, bCleanupResources=true
+[2021.09.11-23.12.09:798][946]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.11-23.12.09:806][946]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.11-23.12.09:814][946]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.11-23.12.09:828][946]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.11-23.12.09:828][946]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.11-23.12.09:843][946]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2021.09.11-23.12.09:865][947]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2021.09.11-23.12.11:611][150]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AugmentedWalk" FILE="../../../../../../Users/Laura/Documents/GitHub/AugmentedWalk/Content/AugmentedWalk.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.09.11-23.12.11:625][150]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2021.09.11-23.12.11:858][150]LogSavePackage: Moving '../../../../../../Users/Laura/Documents/GitHub/AugmentedWalk/Saved/AugmentedWalk6B6EBE26437E41BD340FA598C00E1604.tmp' to '../../../../../../Users/Laura/Documents/GitHub/AugmentedWalk/Content/AugmentedWalk.umap'
+[2021.09.11-23.12.11:864][150]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AugmentedWalk_BuiltData" FILE="../../../../../../Users/Laura/Documents/GitHub/AugmentedWalk/Content/AugmentedWalk_BuiltData.uasset" SILENT=true
+[2021.09.11-23.12.14:228][150]LogSavePackage: Moving '../../../../../../Users/Laura/Documents/GitHub/AugmentedWalk/Saved/AugmentedWalk_BuiltData0B5BCE8F4337A1DA05AC4EA0B1E7C3D5.tmp' to '../../../../../../Users/Laura/Documents/GitHub/AugmentedWalk/Content/AugmentedWalk_BuiltData.uasset'
+[2021.09.11-23.12.14:253][150]AssetCheck: New page: Asset Save: multiple assets
+[2021.09.11-23.12.14:253][150]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/AugmentedWalk_BuiltData.AugmentedWalk_BuiltData
+[2021.09.11-23.12.14:253][150]LogContentValidation: Display: Validating World /Game/AugmentedWalk.AugmentedWalk
